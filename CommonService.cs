@@ -1,6 +1,4 @@
 ﻿using Microsoft.Data.SqlClient;
-using BCMS.Data;
-using BCMS.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
